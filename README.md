@@ -13,4 +13,4 @@ The purpose of this project is to read in census data on a target population, an
 ## Results / Instructions
 I have discarded the original .csv files associated with this project as they were sensitive in nature. However, my results are viewable in the .html file in this repo. I was able to successfully segregate prominent population features into 6 categories, and compare them with their representations from the customer dataset, establishing where the company should target its efforts, and also revealing how its customers relate to the general population.
 
-Although my specific work is unrepeatable, using the code in th
+Although my specific work is unrepeatable, using the code in the .ipynb file, an analogous analysis could be conducted with appropriate datasets.
